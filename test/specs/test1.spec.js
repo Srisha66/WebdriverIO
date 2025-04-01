@@ -10,6 +10,6 @@ describe('Demo Tests',function () {
 
         browser.keys('Enter')
 
-        browser.pause(2000)
+        browser.pause(4000)
     })
 })
